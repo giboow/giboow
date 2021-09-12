@@ -6,7 +6,8 @@ I have recently decided to become a freelancer, this new professional life will 
 
 # ⚡️ Keep connected
 
-- [Website](https://giboow.fr/?utm_source=github)
+- [Personal website](https://giboow.fr/?utm_source=github)
+- [Professional website](https://begoodev.fr/?utm_source=github)
 - [Twitter](https://twitter.com/giboow)
 - [LinkedIn](https://www.linkedin.com/in/pgibert/)
 
