@@ -10,6 +10,3 @@ I have recently decided to become a freelancer, this new professional life will 
 - [Professional website](https://begoodev.fr/?utm_source=github)
 - [Twitter](https://twitter.com/giboow)
 - [LinkedIn](https://www.linkedin.com/in/pgibert/)
-
-# 📈 Github stats
-![Philippe’s Github Stats](https://github-readme-stats.vercel.app/api?username=giboow&theme=dracula&count_private=true&show_icons=true)
